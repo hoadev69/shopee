@@ -1066,7 +1066,9 @@ header__navbar--item--link {
 
 .mobile-category__item {
     flex-shrink: 0;
-    margin-right: 10px;
+    padding-right: 10px;
+    display: flex;
+    margin: auto;
 }
 
 .mobile-category__item:nth-of-type(3n+1) .mobile-category__link {
