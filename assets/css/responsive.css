@@ -96,6 +96,10 @@
         margin: 0 4px;
     }
 
+    .footer__conttent {
+        padding: 0 16px;
+    }
+
     @keyframes mobileSearchSideIn {
         from {
             opacity: 0;
